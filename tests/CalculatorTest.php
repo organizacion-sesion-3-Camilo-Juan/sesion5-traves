@@ -37,7 +37,7 @@ class CalculatorTests extends TestCase
     public function testEsPar()
     {
         $result = $this->calculator->esPar(11, 2);
-        $this->assertEquals(1, $result);
+        $this->assertEquals("Impar", $result);
     }
  
 }

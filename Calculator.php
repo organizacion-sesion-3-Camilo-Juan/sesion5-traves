@@ -19,7 +19,10 @@ class Calculator
 
     public function esPar($a, $b)
     {
-        return $a % $b;
+        if (($a % $b)==0)
+            return "Par";
+        else
+            return "Impar";
     }
  
 }
