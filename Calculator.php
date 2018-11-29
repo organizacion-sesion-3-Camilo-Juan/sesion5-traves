@@ -21,7 +21,7 @@ class Calculator
     {
         if (($a % $b)==0)
             return "Par";
-        else
+        else 
             return "Impar";
     }
  
