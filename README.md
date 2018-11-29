@@ -2,6 +2,8 @@
 
 Ejemplo de proyecto PHP con test unitarios para utilizar con Travis CI
 
+<a href="https://travis-ci.org/organizacion-sesion-3-Camilo-Juan/sesion5-traves"><img src="https://travis-ci.org/organizacion-sesion-3-Camilo-Juan/sesion5-traves.svg?branch=master"></a>
+
 ## Instalación
 
 ``` bash
@@ -14,4 +16,4 @@ composer install
 ``` bash
 vendor/phpunit/phpunit/phpunit tests/
 ```
-<a href="https://travis-ci.org/organizacion-sesion-3-Camilo-Juan/sesion5-traves"><img src="https://travis-ci.org/organizacion-sesion-3-Camilo-Juan/sesion5-traves.svg?branch=master"></a>
+
